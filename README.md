@@ -33,7 +33,7 @@ Here are some ideas to get you started:
  - ⭐⭐⭐ &nbsp; Nodejs | Python | Java
  - ⭐⭐ &nbsp; C# | C++/C
  - 🗄️ &nbsp; Firebase | MongoDB | MySQL
- - 🔧 &nbsp; WebStorm | Visual Studio Code | Git | Windows | Agile
+ - 🔧 &nbsp; WebStorm | Visual Studio Code | Git | Bitbucket | Windows | Agile
 
 <h3>📫 How to reach me </h3>
 
