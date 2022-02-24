@@ -28,12 +28,12 @@ Here are some ideas to get you started:
 
 <h3>📜 Skills </h3>
 
- - ⭐⭐⭐⭐⭐ &nbsp; React/Redux | React Native | JavaScript ES6+ | TypeScript.
- - ⭐⭐⭐⭐⭐ &nbsp; HTML5 | CSS3 | LESS/SASS | Bootstrap based frameworks | BEM.
- - ⭐⭐⭐ &nbsp; Nodejs | Python | Java.
- - ⭐⭐ &nbsp; C# | C++/C.
- - 🗄️ &nbsp; Firebase | MongoDB | MySQL.
- - 🔧 &nbsp; WebStorm | Visual Studio Code | Git | Windows | Agile.
+ - ⭐⭐⭐⭐⭐ &nbsp; React/Redux | React Native | JavaScript ES6+ | TypeScript
+ - ⭐⭐⭐⭐⭐ &nbsp; HTML5 | CSS3 | LESS/SASS | Bootstrap based frameworks | BEM
+ - ⭐⭐⭐ &nbsp; Nodejs | Python | Java
+ - ⭐⭐ &nbsp; C# | C++/C
+ - 🗄️ &nbsp; Firebase | MongoDB | MySQL
+ - 🔧 &nbsp; WebStorm | Visual Studio Code | Git | Windows | Agile
 
 <h3>📫 How to reach me </h3>
 
