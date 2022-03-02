@@ -41,7 +41,7 @@ Here are some ideas to get you started:
  
 <h3> 💻 Selected Projects </h3>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Catherine358&repo=google-form-filling-bot)](https://github.com/Catherine358/google-form-filling-bot
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Catherine358&repo=google-form-filling-bot)](https://github.com/Catherine358/google-form-filling-bot)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Catherine358&repo=turtle-game)](https://github.com/Catherine358/turtle-game)
 
