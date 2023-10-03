@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 
 <h3> 👩‍💻 Frontend Web Developer (JS, TS, React, Redux, React Native) </h3>
 
-- 💼 &nbsp; Frontend developer in an agro-tech start-up, Israel.
-- 🎓 &nbsp; Studying for my MBA, Israel.
+- 💼 &nbsp; Frontend developer in a company that helps contractors in the USA to win more jobs, Israel.
+- 🎓 &nbsp; Received MBA in Finance, Israel.
 - 🌱 &nbsp; Learning fullstack development in my free time.
 - 🌏 &nbsp; English, Hebrew, German, Russian.
 - 🏃‍♀ &nbsp; Love sport: volleyball, swimming, jogging & yoga.
@@ -30,10 +30,10 @@ Here are some ideas to get you started:
 
  - ⭐⭐⭐⭐⭐ &nbsp; React/Redux | React Native | JavaScript ES6+ | TypeScript
  - ⭐⭐⭐⭐⭐ &nbsp; HTML5 | CSS3 | LESS/SASS | Bootstrap based frameworks | BEM
- - ⭐⭐⭐ &nbsp; Nodejs | Python | Java
- - ⭐⭐ &nbsp; C# | C++/C
+ - ⭐⭐⭐ &nbsp; Nodejs | Python | Nextjs
+ - ⭐⭐ &nbsp; C# | C++/C | Java
  - 🗄️ &nbsp; Firebase | MongoDB | MySQL
- - 🔧 &nbsp; WebStorm | Visual Studio Code | Git | Bitbucket | Windows | Agile
+ - 🔧 &nbsp; WebStorm | Visual Studio Code | PyCharm | Git | Gitlab | Bitbucket | Windows | macOs | Agile
 
 <h3>📫 How to reach me </h3>
 
