@@ -53,8 +53,6 @@ Here are some ideas to get you started:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Catherine358&repo=propets)](https://github.com/Catherine358/propets)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Catherine358&repo=katrinzaks)](https://github.com/Catherine358/katrinzaks)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Catherine358&repo=ticket-service-user)](https://github.com/Catherine358/ticket-service-user)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Catherine358&repo=reqpay)](https://github.com/Catherine358/reqpay)
