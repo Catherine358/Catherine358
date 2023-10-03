@@ -41,6 +41,8 @@ Here are some ideas to get you started:
  
 <h3> 💻 Selected Projects </h3>
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Catherine358&repo=google-form-filling-bot)](https://github.com/Catherine358/nextjs-course-meetups)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Catherine358&repo=google-form-filling-bot)](https://github.com/Catherine358/google-form-filling-bot)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Catherine358&repo=fly-tickets-search)](https://github.com/Catherine358/fly-tickets-search)
