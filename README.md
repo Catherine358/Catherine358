@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 
 <h3> 👩‍💻 Frontend Web Developer (JS, TS, React, Redux, React Native) </h3>
 
-- 💼 &nbsp; Frontend developer in a company that helps contractors in the USA to win more jobs, Israel.
+- 💼 &nbsp; Frontend developer in Germany.
 - 🎓 &nbsp; Received MBA in Finance, Israel.
 - 🌱 &nbsp; Learning fullstack development in my free time.
-- 🌏 &nbsp; English, Hebrew, German, Russian.
+- 🌏 &nbsp; English, Hebrew, German, Russian, learning Japanese.
 - 🏃‍♀ &nbsp; Love sport: volleyball, swimming, jogging & yoga.
 - 🗺️ &nbsp; Love photography, reading and travelling.
 
