@@ -41,7 +41,7 @@ Here are some ideas to get you started:
  
 <h3> 💻 Selected Projects </h3>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Catherine358&repo=movies-marketplacel)]([https://github.com/Catherine358/movies-marketplace](https://github.com/Catherine358/movies-marketplace))
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Catherine358&repo=movies-marketplacel)](https://github.com/Catherine358/movies-marketplacel)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Catherine358&repo=accessible-only-select-and-modal)](https://github.com/Catherine358/accessible-only-select-and-modal)
 
