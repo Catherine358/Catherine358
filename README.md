@@ -41,6 +41,8 @@ Here are some ideas to get you started:
  
 <h3> 💻 Selected Projects </h3>
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Catherine358&repo=accessible-only-select-and-modal)]([https://github.com/Catherine358/movies-marketplace](https://github.com/Catherine358/movies-marketplace))
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Catherine358&repo=accessible-only-select-and-modal)](https://github.com/Catherine358/accessible-only-select-and-modal)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Catherine358&repo=time-travel-planer)](https://github.com/Catherine358/time-travel-planer)
@@ -55,10 +57,6 @@ Here are some ideas to get you started:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Catherine358&repo=turtle-game)](https://github.com/Catherine358/turtle-game)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Catherine358&repo=ludus)](https://github.com/Catherine358/ludus)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Catherine358&repo=propets)](https://github.com/Catherine358/propets)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Catherine358&repo=ticket-service-user)](https://github.com/Catherine358/ticket-service-user)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Catherine358&repo=reqpay)](https://github.com/Catherine358/reqpay)
